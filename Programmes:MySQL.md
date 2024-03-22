@@ -1,1 +1,0 @@
-Programs Used: MySQL
